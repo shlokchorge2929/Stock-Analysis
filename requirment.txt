@@ -1,0 +1,7 @@
+tkinter
+numpy
+yfinance
+pandas
+datetime
+matplotlib
+sklearn.linear_model
